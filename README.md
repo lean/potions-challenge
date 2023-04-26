@@ -21,3 +21,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ```bash
 npm run test
 ```
+
+
+## Main Stack
+- NextJS: React Framework
+- Jest: Testing
+- TailwindCSS: Styles 
